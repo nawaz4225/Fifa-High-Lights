@@ -612,8 +612,8 @@
     "groups": {
         "a": {
             "name": "Group A",
-            "winner": null,
-            "runnerup": null,
+            "winner": 2,
+            "runnerup": 4,
             "matches": [
                 {
                     "name": 1,
@@ -742,8 +742,8 @@
         },
         "b": {
             "name": "Group B",
-            "winner": null,
-            "runnerup": null,
+            "winner": 6,
+            "runnerup": 7,
             "matches": [
                 {
                     "name": 3,
@@ -872,8 +872,8 @@
         },
         "c": {
             "name": "Group C",
-            "winner": null,
-            "runnerup": null,
+            "winner": 9,
+            "runnerup": 11,
             "matches": [
                 {
                     "name": 5,
@@ -1005,8 +1005,8 @@
         },
         "d": {
             "name": "Group D",
-            "winner": null,
-            "runnerup": null,
+            "winner": 14,
+            "runnerup": 13,
             "matches": [
                 {
                     "name": 7,
@@ -1135,8 +1135,8 @@
         },
         "e": {
             "name": "Group E",
-            "winner": null,
-            "runnerup": null,
+            "winner": 18,
+            "runnerup": 20,
             "matches": [
                 {
                     "name": 9,
@@ -1266,8 +1266,8 @@
         },
         "f": {
             "name": "Group F",
-            "winner": null,
-            "runnerup": null,
+            "winner":21,
+            "runnerup": 23,
             "matches": [
                 {
                     "name": 11,
@@ -1396,8 +1396,8 @@
         },
         "g": {
             "name": "Group G",
-            "winner": null,
-            "runnerup": null,
+            "winner": 26,
+            "runnerup": 28,
             "matches": [
                 {
                     "name": 13,
@@ -1527,8 +1527,8 @@
         },
         "h": {
             "name": "Group H",
-            "winner": null,
-            "runnerup": null,
+            "winner": 31,
+            "runnerup": 29,
             "matches": [
                 {
                     "name": 15,
