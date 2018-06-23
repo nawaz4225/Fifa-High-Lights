@@ -1707,11 +1707,11 @@
                     "type": "qualified",
                     "home_team": "winner_b",
                     "away_team": "runner_a",
-                    "home_result": null,
-                    "away_result": null,
+                    "home_result": 1,
+                    "away_result": 2,
                     "home_penalty": null,
                     "away_penalty": null,
-                    "winner": null,
+                    "winner": 5,
                     "date": "2018-07-01T17:00:00+03:00",
                     "stadium": 1,
                     "channels": [
@@ -1719,7 +1719,7 @@
                         13,
                         15
                     ],
-                    "finished": false,
+                    "finished": true,
                     "matchday": 4
                 },
                 {
@@ -1727,11 +1727,11 @@
                     "type": "qualified",
                     "home_team": "winner_d",
                     "away_team": "runner_c",
-                    "home_result": null,
-                    "away_result": null,
+                    "home_result": 2,
+                    "away_result": 1,
                     "home_penalty": null,
                     "away_penalty": null,
-                    "winner": null,
+                    "winner": 15,
                     "date": "2018-07-01T21:00:00+03:00",
                     "stadium": 6,
                     "channels": [
@@ -1740,7 +1740,7 @@
                         13,
                         15
                     ],
-                    "finished": false,
+                    "finished": true,
                     "matchday": 4
                 },
                 {
@@ -1748,11 +1748,11 @@
                     "type": "qualified",
                     "home_team": "winner_e",
                     "away_team": "runner_f",
-                    "home_result": null,
-                    "away_result": null,
+                    "home_result": 2,
+                    "away_result": 3,
                     "home_penalty": null,
                     "away_penalty": null,
-                    "winner": null,
+                    "winner": 24,
                     "date": "2018-07-02T18:00:00+04:00",
                     "stadium": 7,
                     "channels": [
@@ -1761,7 +1761,7 @@
                         14,
                         15
                     ],
-                    "finished": false,
+                    "finished": true,
                     "matchday": 4
                 },
                 {
@@ -1769,11 +1769,11 @@
                     "type": "qualified",
                     "home_team": "winner_g",
                     "away_team": "runner_h",
-                    "home_result": null,
-                    "away_result": null,
-                    "home_penalty": null,
-                    "away_penalty": null,
-                    "winner": null,
+                    "home_result": 1,
+                    "away_result": 1,
+                    "home_penalty": 4,
+                    "away_penalty": 3,
+                    "winner": 27,
                     "date": "2018-07-02T21:00:00+03:00",
                     "stadium": 10,
                     "channels": [
@@ -1782,7 +1782,7 @@
                         13,
                         16
                     ],
-                    "finished": false,
+                    "finished": true,
                     "matchday": 4
                 },
                 {
@@ -1790,11 +1790,11 @@
                     "type": "qualified",
                     "home_team": "winner_f",
                     "away_team": "runner_e",
-                    "home_result": null,
-                    "away_result": null,
+                    "home_result": 1,
+                    "away_result": 5,
                     "home_penalty": null,
                     "away_penalty": null,
-                    "winner": null,
+                    "winner": 17,
                     "date": "2018-07-03T17:00:00+03:00",
                     "stadium": 3,
                     "channels": [
@@ -1803,7 +1803,7 @@
                         14,
                         16
                     ],
-                    "finished": false,
+                    "finished": true,
                     "matchday": 4
                 },
                 {
@@ -1811,11 +1811,11 @@
                     "type": "qualified",
                     "home_team": "winner_h",
                     "away_team": "runner_g",
-                    "home_result": null,
-                    "away_result": null,
+                    "home_result": 1,
+                    "away_result": 2,
                     "home_penalty": null,
                     "away_penalty": null,
-                    "winner": null,
+                    "winner": 32,
                     "date": "2018-07-03T21:00:00+03:00",
                     "stadium": 2,
                     "channels": [
@@ -1824,7 +1824,7 @@
                         13,
                         15
                     ],
-                    "finished": false,
+                    "finished": true,
                     "matchday": 4
                 }
             ]
